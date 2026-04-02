@@ -53,6 +53,7 @@ The project was developed following these steps:
    - Donut charts for category, segment, and regional distribution
    - Table for detailed drill-down analysis
    - Slicers for interactive filtering (City)
+   
 ## DASHBOARD
 <img width="1208" height="677" alt="Screenshot 2026-04-02 002453" src="https://github.com/user-attachments/assets/91917be5-912a-4e70-81d9-27b2e803004e" />
 
@@ -63,10 +64,12 @@ The project was developed following these steps:
 - The Consumer segment generates the highest profit compared to Corporate and Home Office.
 - The West region leads in profitability, followed by the East region.
 - Profit shows fluctuations across quarters, with noticeable peaks in certain periods.
+  
 ## Final Conclusion
 The Superstore Sales Dashboard provides a comprehensive view of business performance across multiple dimensions such as time, category, region, and customer segment.
 
 The analysis highlights key profit-driving areas as well as underperforming segments, enabling stakeholders to make informed decisions. By leveraging these insights, businesses can optimize product offerings, improve operational efficiency, and enhance profitability.
+
 ### Tools Used:
 - Power BI
 - DAX (Data Analysis Expressions)
