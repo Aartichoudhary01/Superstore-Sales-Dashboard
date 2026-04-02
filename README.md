@@ -1,6 +1,8 @@
 # Superstore-Sales-Dashboard
+
 ## Project Overview
 The objective of this project is to analyze the sales and profit performance of a retail superstore using Power BI. The dashboard aims to provide meaningful insights into product categories, customer segments, regional performance, and time-based trends to support data-driven decision-making and improve overall business profitability.
+
 ## Dataset Used
 The dataset used in this project is the Sample Superstore dataset, which contains transactional retail data.
 
@@ -15,6 +17,7 @@ Key columns include:
 - Profit
 
 This dataset represents sales operations across different regions and product categories in a retail business environment.
+
 ## Questions And KPIs
 The dashboard is designed to answer the following key business questions:
 
